@@ -1305,8 +1305,8 @@ textarea{
     width: 12px;
     height: 12px;
     
-    margin-left: 15px;
-    margin-top: 32px;
+    left: 15px;
+    top: 32px;
 
     transition-property: fill;
     transition-duration: 250ms;
