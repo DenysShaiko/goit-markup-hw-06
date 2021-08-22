@@ -1131,6 +1131,10 @@ img{
     height: 11px;  
 }
 
+.btn-modal-close:hover .svg-close{
+    fill: var(--blue);
+}
+
 .btn-modal-close{
     position: absolute;
     top: 8px;
